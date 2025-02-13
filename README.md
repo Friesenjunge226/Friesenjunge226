@@ -1,4 +1,4 @@
-[![DC](https://img.shields.io/badge/Community_Discord-blue)](https://discord.com/invite/b77hdjUuyX) [![YT](https://img.shields.io/badge/Youtube-red)](https://www.youtube.com/Friesenjunge226)
+[![DC](https://img.shields.io/badge/Community_Discord-blue)](https://discord.com/invite/b77hdjUuyX) [![YT](https://img.shields.io/badge/Youtube-red)](https://www.youtube.com/@Friesenjunge226)
 - 👋 Hi, I’m [![@Friesenjunge226](https://img.shields.io/badge/@Friesenjunge226-green)](https://linktr.ee/friesenjunge226)
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning JavaScript
