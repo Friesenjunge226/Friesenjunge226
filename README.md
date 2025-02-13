@@ -2,7 +2,7 @@
 - 👋 Hi, I’m [![@Friesenjunge226](https://img.shields.io/badge/@Friesenjunge226-2e9c55)](https://linktr.ee/friesenjunge226)
 - 👀 I’m interested in IT (Duh...)
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: Friesenjunge226@gmail.com
+- 📫 How to reach me: [![Friesenjunge226@gmail.com](https://img.shields.io/badge/Friesenjunge226@gmail.com-2e9c55)](Friesenjunge226@gmail.com)
 - 😄 Pronouns: he/him
 
 
