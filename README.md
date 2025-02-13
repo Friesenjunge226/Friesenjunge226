@@ -1,4 +1,4 @@
-[![DC](img.shields.io/badge/Community_Discord)](https://discord.com/invite/b77hdjUuyX)
+[![DC](img.shields.io/badge/Community_Discord-blue)](https://discord.com/invite/b77hdjUuyX)
 - 👋 Hi, I’m @Friesenjunge226
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning JavaScript
