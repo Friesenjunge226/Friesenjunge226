@@ -1,5 +1,5 @@
 [![DC](https://img.shields.io/badge/Community_Discord-blue)](https://discord.com/invite/b77hdjUuyX) 
-- 👋 Hi, I’m [![@Friesenjunge226](https://img.shields.io/@Friesenjunge226)](https://linktr.ee/friesenjunge226)
+- 👋 Hi, I’m [![@Friesenjunge226](https://img.shields.io/badge/@Friesenjunge226)](https://linktr.ee/friesenjunge226)
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Friesenjunge226@gmail.com
